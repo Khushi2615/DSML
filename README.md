@@ -1,4 +1,4 @@
-# DSML
+# DL
 
 Titles of Lab Assignment 
 1 Perform the following operations using R/Python on suitable data sets: 
